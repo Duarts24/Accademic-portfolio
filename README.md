@@ -1,6 +1,6 @@
-# Portafolio personal
+# Portafolio personal - Janny Duarte
 
-Proyecto independiente basado en React + TanStack Start.
+Mi portafolio academico - basado en React + TanStack Start.
 
 ## Requisitos
 
